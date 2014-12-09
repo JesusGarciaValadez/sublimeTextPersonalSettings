@@ -1,4 +1,5 @@
 {
 	"convert_path" : "/usr/local/bin/convert",
-	"fix_color_schemes": true
+	"fix_color_schemes": true,
+    "use_transparency" : true
 }

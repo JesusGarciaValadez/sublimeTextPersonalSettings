@@ -1,0 +1,25 @@
+{
+    "font_face": "Menlo",
+    "font_size": 12,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+    "rulers": [
+    	80,
+    	120
+    ],
+    "translate_tabs_to_spaces": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+    "word_wrap": "auto",
+    "wrap_width": 120,
+    "draw_minimap_border": true,
+    "always_show_minimap_viewport": true,
+    "highlight_line": true,
+    "draw_white_space": "all",
+    "trim_trailing_white_space_on_save": true,
+    "bold_folder_labels": true,
+    "highlight_modified_tabs": true,
+    "gpu_window_buffer": true,
+    "remember_full_screen": true
+}

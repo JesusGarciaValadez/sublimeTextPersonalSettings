@@ -1,3 +1,4 @@
 {
-    "icons_all": true
+    "icons_all": true,
+    "fix_color_schemes" : true
 }

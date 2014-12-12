@@ -15,7 +15,7 @@
 		"Vintage"
 	],
 	"indent_to_bracket": true,
-	"remember_full_screen": true,
+	"remember_full_screen": false,
 	"rulers":
 	[
 		80,

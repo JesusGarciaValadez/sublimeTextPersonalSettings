@@ -10,15 +10,32 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_000000FF</string>
+<string>mcol_397ABFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
+<string>#397ABFFF</string>
+<key>caret</key>
+<string>#11253AFF</string>
+<key>foreground</key>
+<string>#11253AFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
 <string>#000000FF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#000000FF</string>
 </dict>
 </dict>
 
@@ -27,15 +44,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_A3A3A3FF</string>
+<string>mcol_0C529CFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#A3A3A3FF</string>
+<string>#0C529CFF</string>
 <key>caret</key>
-<string>#5C5C5CFF</string>
+<string>#62A8F3FF</string>
 <key>foreground</key>
-<string>#5C5C5CFF</string>
+<string>#62A8F3FF</string>
 </dict>
 </dict>
 
@@ -44,15 +61,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_33AA33FF</string>
+<string>mcol_CCCCCCFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#33AA33FF</string>
+<string>#CCCCCCFF</string>
 <key>caret</key>
-<string>#113A11FF</string>
+<string>#323232FF</string>
 <key>foreground</key>
-<string>#113A11FF</string>
+<string>#323232FF</string>
 </dict>
 </dict>
 
@@ -61,15 +78,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_00000000</string>
+<string>mcol_666666FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#00000000</string>
+<string>#666666FF</string>
 <key>caret</key>
-<string>#FFFFFFFF</string>
+<string>#999999FF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#999999FF</string>
 </dict>
 </dict>
 
@@ -78,15 +95,495 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_000000B2</string>
+<string>mcol_53534AFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#000000B2</string>
+<string>#53534AFF</string>
 <key>caret</key>
-<string>#FFFFFFFF</string>
+<string>#B5B5ABFF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#B5B5ABFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_1D3A64FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1D3A64FF</string>
+<key>caret</key>
+<string>#9BB8E2FF</string>
+<key>foreground</key>
+<string>#9BB8E2FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_3694B2FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#3694B2FF</string>
+<key>caret</key>
+<string>#11303AFF</string>
+<key>foreground</key>
+<string>#11303AFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_23509BFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#23509BFF</string>
+<key>caret</key>
+<string>#6491DBFF</string>
+<key>foreground</key>
+<string>#6491DBFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_1C86C5FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1C86C5FF</string>
+<key>caret</key>
+<string>#092D42FF</string>
+<key>foreground</key>
+<string>#092D42FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_E83746FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#E83746FF</string>
+<key>caret</key>
+<string>#44070DFF</string>
+<key>foreground</key>
+<string>#44070DFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_B9906FFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#B9906FFF</string>
+<key>caret</key>
+<string>#906746FF</string>
+<key>foreground</key>
+<string>#906746FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_D80056FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#D80056FF</string>
+<key>caret</key>
+<string>#FF267CFF</string>
+<key>foreground</key>
+<string>#FF267CFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_BF009DFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#BF009DFF</string>
+<key>caret</key>
+<string>#FF40DDFF</string>
+<key>foreground</key>
+<string>#FF40DDFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_717375FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#717375FF</string>
+<key>caret</key>
+<string>#252626FF</string>
+<key>foreground</key>
+<string>#252626FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FF0000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FF0000FF</string>
+<key>caret</key>
+<string>#4C0000FF</string>
+<key>foreground</key>
+<string>#4C0000FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_EBEBF7FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#EBEBF7FF</string>
+<key>caret</key>
+<string>#070714FF</string>
+<key>foreground</key>
+<string>#070714FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_003A87FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#003A87FF</string>
+<key>caret</key>
+<string>#78B1FFFF</string>
+<key>foreground</key>
+<string>#78B1FFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_005696FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#005696FF</string>
+<key>caret</key>
+<string>#68BEFFFF</string>
+<key>foreground</key>
+<string>#68BEFFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_61AAD9FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#61AAD9FF</string>
+<key>caret</key>
+<string>#266E9DFF</string>
+<key>foreground</key>
+<string>#266E9DFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_F3F4F5FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#F3F4F5FF</string>
+<key>caret</key>
+<string>#0A0B0CFF</string>
+<key>foreground</key>
+<string>#0A0B0CFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_919191FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#919191FF</string>
+<key>caret</key>
+<string>#262626FF</string>
+<key>foreground</key>
+<string>#262626FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_E2009BFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#E2009BFF</string>
+<key>caret</key>
+<string>#4C0034FF</string>
+<key>foreground</key>
+<string>#4C0034FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_D36BA8FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#D36BA8FF</string>
+<key>caret</key>
+<string>#932C69FF</string>
+<key>foreground</key>
+<string>#932C69FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_19191 !IMPORTANT;
+                FONT-FAMILY:ARIAL, HELVETICA, SANS-SERIF;
+                FONT-SIZE:10PX !IMPORTANT;
+                FONT-WEIGHT:NORMAL !IMPORTANT;
+                LINE-HEIGHT:1EM !IMPORTANT;
+                MARGIN: 5PX AUTO;
+                PADDING:0 3PX;
+                TEXT-ALIGN:LEFT !IMPORTANT;
+                TEXT-DECORATION:NONE;
+            }
+            .LEGALES A{ COLOR: #23509B; }
+            OL{ MARGIN: 10PX 0; PADDING: 0; }
+            .TEXT,.TEXT_GRAY,.TEXT_AQUA,
+            .TEXT_WHITE,.TEXT_BLUE,.FOOT_NOTE,
+            .AGENT_TEXT,.TEXT_RED, .TEXT_NAVY,
+            .TEXT_GOLD,.TEXT_PINK, .TEXT_MEXICAN_PINK,
+            .TEXT_DARK_BLUE, .TEXT_LIGHT_BLUE, .TEXT_PINK_CANCER,
+            .TEXT_PINK_CANCER_TWO{
+                FONT-FAMILY: ARIAL, HELVETICA, "SANS-SERIF";
+                FONT-STYLE: NORMAL;
+                FONT-WEIGHT: NORMAL;
+                LINE-HEIGHT: 1.5EM;
+                PADDING: 0;
+                MARGIN: 10PX AUTO;
+                TEXT-ALIGN: LEFT;
+            }
+            .BLOCK{ DISPLAY: BLOCK; }
+            .TEXT_GRAY{ COLOR: #53534A;}
+            .TEXT_DARK_BLUE{ COLOR: #1D3A64; }
+            .TEXT_WHITE{ COLOR: #FFF; }
+            .TEXT_AQUA{ COLOR: #3694B2; }
+            .TEXT_BLUE{ COLOR: #23509B; }
+            .TEXT_NAVY{ COLOR: #1C86C5; }
+            .TEXT_LIGHT_BLUE{ COLOR: #61AAD9; }
+            .TEXT_RED{ COLOR: #E83746; }
+            .TEXT_GOLD{ COLOR: #B9906F; }
+            .TEXT_PINK{ COLOR: #D80056; }
+            .TEXT_MEXICAN_PINK{ COLOR: #BF009D; }
+            .TEXT_PINK_CANCER{ COLOR: #E2009B; }
+            .TEXT_PINK_CANCER_TWO{ COLOR: #D36BA8; }
+            .LEFT{ TEXT-ALIGN: LEFT; }
+            .CENTERED{ TEXT-ALIGN: CENTER; }
+            .RIGHT{ TEXT-ALIGN: RIGHT; }
+            .JUSTIFIED{ TEXT-ALIGN: JUSTIFY; }
+            .FOOT_NOTE{ FONT-SIZE: 11PX; }
+            .COMPLETE{ WIDTH: 550PX; }
+            .ULTRA_BIG{ FONT-SIZE: 25PX; }
+            .SUPER_BIG{ FONT-SIZE: 22PX; }
+            .SO_BIG{ FONT-SIZE: 18PX; }
+            .BIG{ FONT-SIZE: 15PX; }
+            .MEDIUM{ FONT-SIZE: 13PX; }
+            .SMALL{ FONT-SIZE: 11PX; }
+            .VERY_SMALL{ FONT-SIZE: 9PX; }
+            .BOLD{ FONT-WEIGHT: BOLD; }
+            .LIST{ LIST-STYLE: NONE OUTSIDE; MARGIN: 0; PADDING: 0; }
+            .VEINTE{ WIDTH: 120PX; }
+            .VEINTICINCO{ WIDTH: 150PX; }
+            .TREINTA{ WIDTH: 180PX; }
+            .TREINTA_Y_CINCO{ WIDTH: 210PX; }
+            .CUARENTA{ WIDTH: 240PX; }
+            .CUARENTA_Y_CINCO{ WIDTH: 270PX; }
+            .CINCUENTA{ WIDTH: 300PX; }
+            .CINCUENTA_Y_CINCO{ WIDTH: 330PX; }
+            .SESENTA{ WIDTH: 360PX; }
+            .SESENTA_Y_CINCO{ WIDTH: 390PX; }
+            .SETENTA{ WIDTH: 420PX; }
+            .SETENTA_Y_CINCO{ WIDTH: 450PX; }
+            .OCHENTA{ WIDTH: 480PX; }
+            .OCHENTA_Y_CINCO{ WIDTH: 510PX; }
+            .NOVENTA{ WIDTH: 540PX; }
+            -->FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>919191 !IMPORTANT;
+                FONT-FAMILY:ARIAL, HELVETICA, SANS-SERIF;
+                FONT-SIZE:10PX !IMPORTANT;
+                FONT-WEIGHT:NORMAL !IMPORTANT;
+                LINE-HEIGHT:1EM !IMPORTANT;
+                MARGIN: 5PX AUTO;
+                PADDING:0 3PX;
+                TEXT-ALIGN:LEFT !IMPORTANT;
+                TEXT-DECORATION:NONE;
+            }
+            .LEGALES A{ COLOR: #23509B; }
+            OL{ MARGIN: 10PX 0; PADDING: 0; }
+            .TEXT,.TEXT_GRAY,.TEXT_AQUA,
+            .TEXT_WHITE,.TEXT_BLUE,.FOOT_NOTE,
+            .AGENT_TEXT,.TEXT_RED, .TEXT_NAVY,
+            .TEXT_GOLD,.TEXT_PINK, .TEXT_MEXICAN_PINK,
+            .TEXT_DARK_BLUE, .TEXT_LIGHT_BLUE, .TEXT_PINK_CANCER,
+            .TEXT_PINK_CANCER_TWO{
+                FONT-FAMILY: ARIAL, HELVETICA, "SANS-SERIF";
+                FONT-STYLE: NORMAL;
+                FONT-WEIGHT: NORMAL;
+                LINE-HEIGHT: 1.5EM;
+                PADDING: 0;
+                MARGIN: 10PX AUTO;
+                TEXT-ALIGN: LEFT;
+            }
+            .BLOCK{ DISPLAY: BLOCK; }
+            .TEXT_GRAY{ COLOR: #53534A;}
+            .TEXT_DARK_BLUE{ COLOR: #1D3A64; }
+            .TEXT_WHITE{ COLOR: #FFF; }
+            .TEXT_AQUA{ COLOR: #3694B2; }
+            .TEXT_BLUE{ COLOR: #23509B; }
+            .TEXT_NAVY{ COLOR: #1C86C5; }
+            .TEXT_LIGHT_BLUE{ COLOR: #61AAD9; }
+            .TEXT_RED{ COLOR: #E83746; }
+            .TEXT_GOLD{ COLOR: #B9906F; }
+            .TEXT_PINK{ COLOR: #D80056; }
+            .TEXT_MEXICAN_PINK{ COLOR: #BF009D; }
+            .TEXT_PINK_CANCER{ COLOR: #E2009B; }
+            .TEXT_PINK_CANCER_TWO{ COLOR: #D36BA8; }
+            .LEFT{ TEXT-ALIGN: LEFT; }
+            .CENTERED{ TEXT-ALIGN: CENTER; }
+            .RIGHT{ TEXT-ALIGN: RIGHT; }
+            .JUSTIFIED{ TEXT-ALIGN: JUSTIFY; }
+            .FOOT_NOTE{ FONT-SIZE: 11PX; }
+            .COMPLETE{ WIDTH: 550PX; }
+            .ULTRA_BIG{ FONT-SIZE: 25PX; }
+            .SUPER_BIG{ FONT-SIZE: 22PX; }
+            .SO_BIG{ FONT-SIZE: 18PX; }
+            .BIG{ FONT-SIZE: 15PX; }
+            .MEDIUM{ FONT-SIZE: 13PX; }
+            .SMALL{ FONT-SIZE: 11PX; }
+            .VERY_SMALL{ FONT-SIZE: 9PX; }
+            .BOLD{ FONT-WEIGHT: BOLD; }
+            .LIST{ LIST-STYLE: NONE OUTSIDE; MARGIN: 0; PADDING: 0; }
+            .VEINTE{ WIDTH: 120PX; }
+            .VEINTICINCO{ WIDTH: 150PX; }
+            .TREINTA{ WIDTH: 180PX; }
+            .TREINTA_Y_CINCO{ WIDTH: 210PX; }
+            .CUARENTA{ WIDTH: 240PX; }
+            .CUARENTA_Y_CINCO{ WIDTH: 270PX; }
+            .CINCUENTA{ WIDTH: 300PX; }
+            .CINCUENTA_Y_CINCO{ WIDTH: 330PX; }
+            .SESENTA{ WIDTH: 360PX; }
+            .SESENTA_Y_CINCO{ WIDTH: 390PX; }
+            .SETENTA{ WIDTH: 420PX; }
+            .SETENTA_Y_CINCO{ WIDTH: 450PX; }
+            .OCHENTA{ WIDTH: 480PX; }
+            .OCHENTA_Y_CINCO{ WIDTH: 510PX; }
+            .NOVENTA{ WIDTH: 540PX; }
+            -->FF</string>
+<key>caret</key>
+<string>#FEFEE5FF</string>
+<key>foreground</key>
+<string>#FEFEE5FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_A6E3C9FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#A6E3C9FF</string>
+<key>caret</key>
+<string>#1C593FFF</string>
+<key>foreground</key>
+<string>#1C593FFF</string>
 </dict>
 </dict>
 
